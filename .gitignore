@@ -1,0 +1,4 @@
+#session files
+*.session
+#info files 
+/id_hash/*
