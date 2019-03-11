@@ -2,3 +2,4 @@
 *.session
 #info files 
 /id_hash/*
+/*.txt
